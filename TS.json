@@ -2,7 +2,7 @@
 {
 "wallpaper":"https://picsum.photos/1280/720/?blur=10",
 
-"spider":"https://gitea.com/jkn2008/aiyouteng/raw/branch/master/jar/ayt.jar",
+"spider":"https://gitea.com/jkn2008/mzy/raw/branch/main/jar/%E9%98%BF%E9%87%8C%E5%8E%9F%E7%94%BB.jar",
 
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":[
 "proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlYS5jb20vbHR4eGpzL3RpbmdoYW8vcmF3L2JyYW5jaC9tYWluL1RoZVRWL2xpdmUudHh0"
@@ -12,9 +12,9 @@
 
 //资源来源于:ltxxjs&n3rd
 {"key": "Bili","name": "🅱哔哩套餐","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://gitea.com/jkn2008/qiaoji/raw/branch/main/bili.json"},
-{"key":"csp_QQ","name":"🐧腾讯视频(SP)","type": 3,"api":"csp_QQ","searchable": 1,"quickSearch": 1,"filterable": 1},
-{"key":"csp_MGTV","name":"🍋芒果TV(SP)","type":3,"api":"csp_MGTV","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_IQIYI","name":"🐷爱奇艺(SP)","type":3,"api":"csp_IQIYI","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_QQ","name":"🐧腾讯视频(SP)","type": 3,"api":"csp_QQ","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://gitea.com/jkn2008/aiyouteng/raw/branch/master/jar/ayt.jar"},
+{"key":"csp_MGTV","name":"🍋芒果TV(SP)","type":3,"api":"csp_MGTV","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitea.com/jkn2008/aiyouteng/raw/branch/master/jar/ayt.jar"},
+{"key":"csp_IQIYI","name":"🐷爱奇艺(SP)","type":3,"api":"csp_IQIYI","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitea.com/jkn2008/aiyouteng/raw/branch/master/jar/ayt.jar"},
 {"key":"csp_Kunyu77","name":"👒酷云七七(SP)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "csp_Kmys","name":"😾酷猫影视(SP)","type": 3,"api": "csp_Kmys","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://gitea.com/jkn2008/mzy/raw/branch/main/jar/n3rd0805.jar"},
 {"key":"LiteApple","name":"🍎小苹果(SP)","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
@@ -65,7 +65,7 @@
 
 
 
-{"key":"csp_Yisou","name":"易搜盘","type":3,"api":"csp_Yisou","searchable":1,"quickSearch":1,"filterable":0,"ext":"f8ff9896499c4d5b9dca44c5ff4e0108","jar":"https://gitea.com/jkn2008/mzy/raw/branch/main/jar/%E9%98%BF%E9%87%8C%E5%8E%9F%E7%94%BB.jar"},
+{"key":"csp_Yisou","name":"易搜盘","type":3,"api":"csp_Yisou","searchable":1,"quickSearch":1,"filterable":0,"ext":"f8ff9896499c4d5b9dca44c5ff4e0108"},
 {"key":"csp_Gitcafe","name":"🦊小纸条","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"ext": "f8ff9896499c4d5b9dca44c5ff4e0108"},
 {"key":"csp_AliPS","name":"🐱喵盘搜","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":1,"ext": "f8ff9896499c4d5b9dca44c5ff4e0108"},
 {"key": "zhaozy","name": "🗃找资源","type": 3,"api": "csp_Zhaozy","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "f8ff9896499c4d5b9dca44c5ff4e0108"},
