@@ -65,7 +65,7 @@
 
 
 
-{"key":"csp_Gitcafe","name":"🦊小纸条","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitea.com/jkn2008/mzy/raw/branch/main/jar/%E9%98%BF%E9%87%8C%E5%8E%9F%E7%94%BB.jar","ext": "f8ff9896499c4d5b9dca44c5ff4e0108"},
+{"key":"csp_Gitcafe","name":"🦊小纸条","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitea.com/jkn2008/aiyouteng/raw/branch/master/jar/ayt.jar","ext": "f8ff9896499c4d5b9dca44c5ff4e0108"},
 {"key":"csp_Yisou","name":"🔍易搜盘(仅搜索)","type":3,"api":"csp_Yisou","searchable":1,"quickSearch":1,"filterable":0,"jar":"https://gitea.com/jkn2008/mzy/raw/branch/main/jar/%E9%98%BF%E9%87%8C%E5%8E%9F%E7%94%BB.jar","ext":"f8ff9896499c4d5b9dca44c5ff4e0108"},
 {"key":"csp_AliPS","name":"🔍喵盘搜(仅搜索)","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitea.com/jkn2008/mzy/raw/branch/main/jar/%E9%98%BF%E9%87%8C%E5%8E%9F%E7%94%BB.jar","ext": "f8ff9896499c4d5b9dca44c5ff4e0108"},
 {"key": "zhaozy","name":"🔍找资源(仅搜索)","type": 3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitea.com/jkn2008/mzy/raw/branch/main/jar/%E9%98%BF%E9%87%8C%E5%8E%9F%E7%94%BB.jar","ext": "f8ff9896499c4d5b9dca44c5ff4e0108"},
