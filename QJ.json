@@ -207,7 +207,7 @@
 		"quickSearch": 1,
 		"filterable": 1
 	}, 
-    	{"key":"csp_Yisou","name":"🔍易搜(原画)","type":3,"api":"csp_Yiso","searchable":1,"quickSearch":1,"filterable":0,"ext":"f8ff9896499c4d5b9dca44c5ff4e0108"},
+    	{"key":"csp_Yisou","name":"🔍易搜(原画)","type":3,"api":"csp_Yiso","searchable":1,"quickSearch":1,"filterable":0,"ext":"388d2c93c23c467a807f129339389c9f"},
     {
 		"key": "Gitcafe",
 		"name": "🍕小纸条",
