@@ -207,6 +207,7 @@
 		"quickSearch": 1,
 		"filterable": 1
 	}, 
+    	{"key":"csp_Yiso","name":"🔍易搜(原画)","type":3,"api":"csp_Yiso","searchable":1,"quickSearch":1,"filterable":0,"ext":"f8ff9896499c4d5b9dca44c5ff4e0108"},
     {
 		"key": "Gitcafe",
 		"name": "🍕小纸条",
@@ -706,5 +707,5 @@
     //"wallpaper": "https://picsum.photos/1280/720/?blur=10",
       "wallpaper":"http://www.kf666888.cn/api/tvbox/img",
     //"spider":"https://gitea.com/jkn2008/mzy/raw/branch/main/jar/qj0809.jar"
-    "spider":"https://gitea.com/jkn2008/mzy/raw/branch/main/jar/%E5%85%A8%E5%90%88%E9%9B%86.jar"
+    "spider":"gitea.com/jkn2008/mzy/raw/branch/main/jar/%E5%90%88%E9%9B%86%E5%8E%9F%E7%94%BB%E6%96%B0XB.jar"
 }
