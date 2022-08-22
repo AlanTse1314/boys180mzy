@@ -2,8 +2,8 @@
 {
     "sites": [
 
-{"key": "bdys","name": "📺哔嘀〔磁力测试〕","type": 3,"api": "csp_XPbd","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://ygyzy.github.io/api/XPbd/Bdys.json",
-"jar": "https://ygyzy.github.io/api/jar/kmys.jar;md5;c6c3abb8b47fc5509434a4cca224cd32"},
+{"key": "bdys","name": "📺哔嘀〔磁力测试〕","type": 3,"api": "csp_XPbd","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://gitea.com/jkn2008/mzy/raw/branch/main/jar/biditd.json",
+"jar": "https://gitea.com/jkn2008/mzy/raw/branch/main/jar/kmys.jar"},
 
 
 
